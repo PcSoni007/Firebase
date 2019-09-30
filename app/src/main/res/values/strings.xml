@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FCM</string>
+    <string name="msg_token_fmt">Registered with Firebase</string>
+    <string name="sign_in_back">Background Image</string>sign_in_hint
+    <string name="sign_in_hint">Enter your Phone Number</string>
+    <string name="Whitelist">+91</string>
+    <string-array name="phn_country_code">
+        <item>+91 India</item>
+        <item>+1 USA</item>
+        <item>+52 Mexico</item>
+        <item>+44 UN</item>
+    </string-array>
+</resources>

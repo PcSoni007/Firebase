@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "214986956306",
+    "firebase_url": "https://btps-notification.firebaseio.com",
+    "project_id": "btps-notification",
+    "storage_bucket": "btps-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214986956306:android:477bb36d2c5756b331c2cb",
+        "android_client_info": {
+          "package_name": "com.prakhar.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214986956306-f6slii83gaenpsnhdh049e1f9vngmk8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prakhar.fcm",
+            "certificate_hash": "57630436c7f8a81e380dfd3226f5bfde2470f9b9"
+          }
+        },
+        {
+          "client_id": "214986956306-hnn54482q12lff41ufn2g9q5qsjomt9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCjdLo7iLU9cCdlghe19GkCrgR7w78AyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214986956306-hnn54482q12lff41ufn2g9q5qsjomt9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
